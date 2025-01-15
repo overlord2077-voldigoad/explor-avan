@@ -1,0 +1,5 @@
+scapy==2.4.5
+python-nmap==0.7.1
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
